@@ -1,5 +1,6 @@
 # Livro de receitas
 
-Olá! Bem vindo ao pior livro de receitas do mundo
+Olá! Bem vindo ao melhor livro de receitas do mundo
 
-- Strogonoff de cimento
+- Strogonoff de frango
+- Pudim
